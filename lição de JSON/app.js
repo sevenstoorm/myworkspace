@@ -91,6 +91,6 @@ app.delete("/Salgados/:ID", (req, res) => {
 
 // PORTA DO SERVIDOR
 
-app.listen(3000, () => {
-    console.log("Server running on port 3000");
+app.listen(6000, () => {
+    console.log("Server running on port 6000");
 });
